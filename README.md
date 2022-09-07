@@ -31,7 +31,16 @@
         bot.reply_to(mensagem, "Estou ativado!")
 
 <p>3° Pegando o token com o BotFather: </p>
-<p align="center"><a href="https://t.me/BotFather"><img src="https://img.shields.io/badge/-BotFather-white?style=for-the-badge&logo=Telegram&logoColor=default"></p>
+<a href="https://t.me/BotFather"><img src="https://img.shields.io/badge/-BotFather-white?style=for-the-badge&logo=Telegram&logoColor=default"></a>
 
-<i>Toque na caixa acima escrito "BotFather", você será redirecionado ao bot do Telegram responsável pela criação de Tokens para os bots de terceiros!</i>
-<i>Após isso, digite <b>/newbot</b> e em seguida, envie o nome que deseja dar ao seu bot</i>
+
+<i>• Toque na caixa acima escrito "BotFather", você será redirecionado ao bot do Telegram responsável pela criação de Tokens para os bots de terceiros!</i></br>
+<i>• Após isso, digite <b>/newbot</b> e em seguida, envie o nome que deseja dar ao seu bot.</i></br>
+<i>• E por fim o Username, que deve conter <b>bot</b> no nome, exemplo: </b>TetrisBot ou tetris_bot</b></i></br>
+<i>• Caso o username inserido não exista, ele irá mandar as informações do seu bot, e o token.</i></br>
+
+<p> Após você pegar seu Token, troque o valor da variável Token do código, e execute com <b>python nomeBot.pt</b></i></br></br>
+
+<h3>Para mais informações da biblioteca, acesse:</h3>
+
+https://pypi.org/project/pyTelegramBotAPI/
